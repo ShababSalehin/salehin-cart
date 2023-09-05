@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/salehin-cart/static/css/main.e811489f.chunk.css",
+    "main.js": "/salehin-cart/static/js/main.6060df18.chunk.js",
+    "main.js.map": "/salehin-cart/static/js/main.6060df18.chunk.js.map",
+    "runtime~main.js": "/salehin-cart/static/js/runtime~main.ea4036e0.js",
+    "runtime~main.js.map": "/salehin-cart/static/js/runtime~main.ea4036e0.js.map",
+    "static/css/2.0624914a.chunk.css": "/salehin-cart/static/css/2.0624914a.chunk.css",
+    "static/js/2.12229f6c.chunk.js": "/salehin-cart/static/js/2.12229f6c.chunk.js",
+    "static/js/2.12229f6c.chunk.js.map": "/salehin-cart/static/js/2.12229f6c.chunk.js.map",
+    "index.html": "/salehin-cart/index.html",
+    "precache-manifest.e20f55edd3b623b367a8643ae949ec94.js": "/salehin-cart/precache-manifest.e20f55edd3b623b367a8643ae949ec94.js",
+    "service-worker.js": "/salehin-cart/service-worker.js",
+    "static/css/2.0624914a.chunk.css.map": "/salehin-cart/static/css/2.0624914a.chunk.css.map",
+    "static/css/main.e811489f.chunk.css.map": "/salehin-cart/static/css/main.e811489f.chunk.css.map",
+    "static/media/logo.png": "/salehin-cart/static/media/logo.3285c592.png"
+  }
+}
